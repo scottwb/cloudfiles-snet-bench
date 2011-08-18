@@ -3,7 +3,7 @@ This is a quick-and-dirty script to compare the performance of uploading from a 
 To run this test yourself:
 
 ```
-git clone xxx.git
+git clone git://github.com/scottwb/cloudfiles-snet-bench.git
 gem install cloudfiles   # or use bundler with the Gemfile
 ```
 
